@@ -37,11 +37,11 @@ Which regions and demographics require urgent intervention
 
 # pycountry (Country code conversion)
 
-## 📊 Datasets Used Indicator API Endpoint Adult Obesity NCD_BMI_30C Child Obesity NCD_BMI_PLUS2C Adult Underweight NCD_BMI_18C Child Thinness NCD_BMI_MINUS2C
+# 📊 Datasets Used Indicator API Endpoint Adult Obesity NCD_BMI_30C Child Obesity NCD_BMI_PLUS2C Adult Underweight NCD_BMI_18C Child Thinness NCD_BMI_MINUS2C
 
 Each dataset contains country-level estimates by year, gender, and region, including confidence intervals.
 
-## 🔄 Project Workflow WHO APIs ↓ Python (ETL + Cleaning + EDA) ↓ SQL Database (Obesity & Malnutrition Tables) ↓ Power BI / Streamlit Dashboards ↓ Insights & Policy Recommendations 🧹 Data Cleaning & Feature Engineering Columns Retained
+# 🔄 Project Workflow WHO APIs ↓ Python (ETL + Cleaning + EDA) ↓ SQL Database (Obesity & Malnutrition Tables) ↓ Power BI / Streamlit Dashboards ↓ Insights & Policy Recommendations 🧹 Data Cleaning & Feature Engineering Columns Retained
 
 * Year
 
@@ -252,5 +252,5 @@ Explore dashboards and insights
 
 This project highlights the global nutrition paradox, where obesity and malnutrition coexist across countries and populations. Through data analysis and visualization, the study reveals significant regional, age-group, and gender-based disparities in nutritional outcomes. The findings emphasize that addressing global health challenges requires balanced, data-driven strategies that simultaneously target both undernutrition and overnutrition rather than treating them as separate issues.
 
-👨‍💻 Author
+# 👨‍💻 Author
 Prem Kumar.A / Project Type: End-to-End Data Analytics / Portfolio Project
